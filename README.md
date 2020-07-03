@@ -12,7 +12,12 @@ How to design a sorting function
 
 ## Alice and Bob
 Fictional characters in cryptology. Alice, Bob, Charlie, Eve .....
-[Wiki Link](https://en.wikipedia.org/wiki/Alice_and_Bob)
+* [Wiki Link](https://en.wikipedia.org/wiki/Alice_and_Bob)
+
+## String "polygenelubricants"
+The formula of calculating has code using % operator is not bug free. The String hash code of "polygenelubricants" is -2^31 
+* [Link1](https://algs4.cs.princeton.edu/34hash/)
+* [Link2](http://homes.sice.indiana.edu/yye/lab/teaching/spring2014-C343/hashing.php)
 
 # References
 * https://algs4.cs.princeton.edu/home/
