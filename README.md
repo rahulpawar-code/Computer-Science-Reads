@@ -3,12 +3,14 @@
 # Computer-Science-Reads
 General articles in the filed of Computer Science which are interesting, historic, interesting.
 
-
 ## Engineering a sort function
 How to design a sorting function
 > Bentley, Jon L., and M. Douglas McIlroy. "Engineering a sort 
 > function."  Software: Practice and Experience 23, no. 11 (1993):
 > 1249-1265.
+
+## A plea for lean software
+N. Wirth, "A plea for lean software," in Computer, vol. 28, no. 2, pp. 64-68, Feb. 1995, doi: 10.1109/2.348001.
 
 ## Alice and Bob
 Fictional characters in cryptology. Alice, Bob, Charlie, Eve .....
