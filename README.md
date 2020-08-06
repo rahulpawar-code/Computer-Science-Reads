@@ -9,6 +9,9 @@ How to design a sorting function
 > function."  Software: Practice and Experience 23, no. 11 (1993):
 > 1249-1265.
 
+## The Unix Time-Sharing System
+Ritchie D.M., Thompson K. (2001) The Unix Time-Sharing System. In: Hansen P.B. (eds) Classic Operating Systems. Springer, New York, NY. https://doi.org/10.1007/978-1-4757-3510-9_11
+
 ## A plea for lean software
 N. Wirth, "A plea for lean software," in Computer, vol. 28, no. 2, pp. 64-68, Feb. 1995, doi: 10.1109/2.348001.
 
