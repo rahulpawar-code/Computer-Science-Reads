@@ -33,5 +33,8 @@ The formula of calculating has code using % operator is not bug free. The String
 ## Every mathematician has only a few tricks
  [Every mathematician has only a few tricks](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks)
 
+## Rename human genes
+[Scientists rename human genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
+
 # References
 * https://algs4.cs.princeton.edu/home/
