@@ -36,5 +36,8 @@ The formula of calculating has code using % operator is not bug free. The String
 ## Rename human genes
 [Scientists rename human genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
 
+## C Programming Language
+[“A damn stupid thing to do”—the origins of C](https://arstechnica.com/features/2020/12/a-damn-stupid-thing-to-do-the-origins-of-c/)
+
 # References
 * https://algs4.cs.princeton.edu/home/
