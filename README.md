@@ -39,5 +39,10 @@ The formula of calculating has code using % operator is not bug free. The String
 ## C Programming Language
 [“A damn stupid thing to do”—the origins of C](https://arstechnica.com/features/2020/12/a-damn-stupid-thing-to-do-the-origins-of-c/)
 
+## Conway's law
+Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
+[Web article Link](http://www.melconway.com/Home/Committees_Paper.html)
+[Wiki](https://en.wikipedia.org/wiki/Conway%27s_law)
+
 # References
 * https://algs4.cs.princeton.edu/home/
