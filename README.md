@@ -1,5 +1,6 @@
 
 
+
 # Computer-Science-Reads
 General articles in the filed of Computer Science which are interesting, historic, interesting.
 
@@ -43,6 +44,12 @@ The formula of calculating has code using % operator is not bug free. The String
 Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
 [Web article Link](http://www.melconway.com/Home/Committees_Paper.html)
 [Wiki](https://en.wikipedia.org/wiki/Conway%27s_law)
+
+
+# Software Engineering
+* Choose an open source [license](https://choosealicense.com/)
+* [Technical debt](https://en.wikipedia.org/wiki/Technical_debt)
+* [Conway's law](http://www.melconway.com/Home/Conways_Law.html)
 
 # References
 * https://algs4.cs.princeton.edu/home/
